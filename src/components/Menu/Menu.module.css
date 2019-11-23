@@ -1,0 +1,24 @@
+.navbar {
+    width: 100%;
+    text-decoration: none;
+    height: 60px;
+    background-color: rgb(34, 37, 56);
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    align-content: center;
+}
+
+.navbarMenu {
+    height: auto;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    margin: 12px 30px;
+    font-weight: 600;
+    padding: 24px;
+}
